@@ -1,0 +1,7 @@
+{
+    "baseUrl": "http://localhost:4173/login/auth",
+    "includeShadowDom": true,
+    "chromeWebSecurity": true,
+    "viewportHeight": 1080,
+    "viewportWidth": 1920
+}
